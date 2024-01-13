@@ -1,0 +1,77 @@
+
+
+
+
+	ENFANT
+
+Date d'inscription: 25/4/2022
+GROUPE: a
+Niveau: Niveau Junior
+Nom & Prenom: ds ds
+Date de naissance: 3/3/2018
+Sexe: s
+Nationalite: s
+Groupe Sanguin: s
+Enfant non vaccine
+Maladies: s	
+Allergies: s	
+
+	PARENT RESPONSABLE
+
+CIN: 123456789
+Nom & Prenom: jhg asd
+Date de naissance: 1/2/1980
+Numero de telephone: 333
+Email: ee
+Adresse: ee
+Fonction: ss
+
+
+	ENFANT
+
+Date d'inscription: 22/4/2022
+GROUPE: E
+Niveau: Creche
+Nom & Prenom: nome prenome
+Date de naissance: 1/1/2019
+Sexe: fem
+Nationalite: tun
+Groupe Sanguin: o+
+Enfant vaccine
+Maladies: maladie1	maladie2	
+Allergies: allergie1	allergie2	
+
+	PARENT RESPONSABLE
+
+CIN: 123456789
+Nom & Prenom: nomp prenomp
+Date de naissance: 1/1/1980
+Numero de telephone: 123654
+Email: email
+Adresse: adresse
+Fonction: fonctionp
+
+
+	ENFANT
+
+Date d'inscription: 25/4/2022
+GROUPE: E
+Niveau: Niveau Junior
+Nom & Prenom: ss ss
+Date de naissance: 3/2/2020
+Sexe: fem
+Nationalite: tun
+Groupe Sanguin: o+
+Enfant vaccine
+Maladies: mal	mal2	
+Allergies: al	
+
+	PARENT RESPONSABLE
+
+CIN: 13456
+Nom & Prenom: mlkj sxdx
+Date de naissance: 1/1/1980
+Numero de telephone: 333
+Email: ss
+Adresse: ss
+Fonction: ss

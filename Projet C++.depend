@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1650860604 source:c:\users\dell\desktop\projet c++\projet.cpp
+	<iostream>
+	<string>
+	<vector>
+	"projet.h"
+	<fstream>
+
+1650873493 source:c:\users\dell\desktop\projet c++\main.cpp
+	<iostream>
+	<string>
+	"projet.h"
+	"fonctions.h"
+	<vector>
+	<fstream>
+
+1650860543 c:\users\dell\desktop\projet c++\projet.h
+	<string>
+	<iostream>
+	<vector>
+	<fstream>
+
+1650870324 c:\users\dell\desktop\projet c++\fonctions.h
+
+1650873493 source:c:\users\dell\desktop\projet c++\fonctions.cpp
+	"fonctions.h"
+	<iostream>
+	<string>
+	"projet.h"
+
